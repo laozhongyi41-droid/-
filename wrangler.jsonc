@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "zpj",
+  "compatibility_date": "2026-07-21",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "ZHONGYI-WEBSITE"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
